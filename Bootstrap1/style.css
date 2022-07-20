@@ -1,3 +1,14 @@
 body {
     text-align: center;
+    background-color: #E9ECEF;
+ 
+}
+.row {
+    margin: 10%;
+
+}
+.hakkimizda {
+    margin-top: 10%;
+    background-color: #E9ECEF;
+    border-style: none;
 }
