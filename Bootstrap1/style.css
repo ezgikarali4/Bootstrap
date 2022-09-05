@@ -1,14 +1,17 @@
-body {
+.body {
     text-align: center;
     background-color: #E9ECEF;
- 
 }
 .row {
-    margin: 10%;
-
 }
-.hakkimizda {
-    margin-top: 10%;
-    background-color: #E9ECEF;
-    border-style: none;
+.list-group{
+    margin: 5%;
+    padding: 0 20% 0 20%;
+}
+.badge{
+    width: 50%;
+    margin: 10px;
+}
+.sub-title{
+    color: rgb(76, 66, 206);
 }
