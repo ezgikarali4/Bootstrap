@@ -1,10 +1,10 @@
-.avatar{
+.avatar {
     height: 150px;
     width: 150px;
     border-radius: 100%;
     margin-top: 10px;
 }
 
-.avatar-box{
+.avatar-box {
     text-align: center;
 }
