@@ -7,3 +7,11 @@ Sorularınız veya projeyi geliştirmeye yönelik fikirleriniz için bana ulaşa
 
 ## Canlı Site:
 ![](https://github.com/ezgikarali4/Bootstrap/blob/main/Bootstrap1/images/muzikdukkanim.gif)
+
+# Social Media / Bootstrap2
+
+Merhaba Bootstrap v5.0 kullanarak şimdilik tek 1 sayfadan oluşan Social Media site örneği ektedir. Geliştirilmeye açıktır.
+
+## Canlı Site:
+![]()
+
