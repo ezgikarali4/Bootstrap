@@ -13,5 +13,5 @@ Sorularınız veya projeyi geliştirmeye yönelik fikirleriniz için bana ulaşa
 Merhaba Bootstrap v5.0 kullanarak şimdilik tek 1 sayfadan oluşan Social Media site örneği ektedir. Geliştirilmeye açıktır.
 
 ## Canlı Site:
-![]()
+![](https://github.com/ezgikarali4/Bootstrap/blob/main/Bootstrap2/images/ezgif.com-gif-maker.gif)
 
