@@ -3,14 +3,16 @@
     background-color: #E9ECEF;
 }
 
-.list-group{
+.list-group {
     margin: 5%;
     padding: 0 20% 0 20%;
 }
-.badge{
+
+.badge {
     width: 50%;
     margin: 10px;
 }
-.sub-title{
+
+.sub-title {
     color: rgb(76, 66, 206);
 }
