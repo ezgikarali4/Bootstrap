@@ -5,13 +5,13 @@ The Music Store site consisting of 3 pages that I made using Bootstrap v4.0 is a
 
 You can contact me for your questions or ideas for improving the project.
 
-## Canlı Site:
+## Live:
 ![](https://github.com/ezgikarali4/Bootstrap/blob/main/Bootstrap1/images/muzikdukkanim.gif)
 
 # LinkedIn / Bootstrap2
 
 Hello, using Bootstrap v5.0 for now, a Social Media site example consisting of only 1 page is attached.
 
-## Canlı Site:
+## Live:
 ![](https://github.com/ezgikarali4/Bootstrap/blob/main/Bootstrap2/images/ezgif.com-gif-maker.gif)
 
